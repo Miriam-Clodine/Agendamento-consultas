@@ -1,0 +1,3 @@
+git add .
+git commit -m "Adiciona estrutura de riscos do projeto"
+git push origin main
