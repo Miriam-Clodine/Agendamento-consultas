@@ -1,0 +1,36 @@
+# Etapa 4 – Comunicação para Stakeholders
+
+## Status do Projeto do Aplicativo de Agendamento Médico
+
+Prezados Stakeholders,
+
+O projeto encontra-se em andamento e já possui funcionalidades importantes implementadas, incluindo cadastro de usuários, gestão de agenda e parte do fluxo de agendamento.
+
+Nas últimas semanas identificamos riscos relevantes que podem impactar prazo e escopo do projeto. O principal deles está relacionado à integração com o sistema externo de prontuário eletrônico, considerada crítica para a operação da solução. Foram observadas instabilidades decorrentes de alterações recentes no sistema externo e limitações na documentação técnica disponível.
+
+Também foram recebidas solicitações de evolução do fluxo de agendamento, incluindo novas regras de negócio e validações. Embora agreguem valor ao produto, essas alterações aumentam o esforço de desenvolvimento e testes.
+
+A equipe também relatou aumento da carga de trabalho, criando riscos adicionais para o cumprimento dos prazos previamente planejados.
+
+## Ações em Andamento
+
+- Intensificação do contato com o fornecedor do sistema de prontuário.
+- Criação de mecanismos de teste e contingência para a integração.
+- Avaliação e priorização das solicitações de mudança.
+- Revisão do planejamento das próximas entregas.
+- Reforço das atividades de qualidade e testes.
+
+## Próximos Passos
+
+1. Estabilizar a integração com o sistema externo.
+2. Formalizar a aprovação das mudanças de requisitos.
+3. Revisar o cronograma do projeto.
+4. Atualizar as previsões de entrega.
+
+## Decisões Solicitadas
+
+- Priorização dos requisitos essenciais para a próxima entrega.
+- Avaliação de possível ajuste de prazo ou recursos.
+- Aprovação formal de futuras solicitações de alteração.
+
+Com essas ações, espera-se reduzir os riscos identificados e aumentar a previsibilidade da entrega, preservando a qualidade e os objetivos do projeto.
